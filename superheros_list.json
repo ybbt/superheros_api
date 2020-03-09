@@ -1,1 +1,32 @@
-[{"id": 1,"nickname": "Superman","picture": "uperman_picture",},{"id": 2,"nickname": "Batman","picture": "batman_picture",},{"id": 3,"nickname": "Nightwing","picture": "nightwing_picture",},{"id": 4,"nickname": "Batgirl","picture": "batgirl_picture",},{"id": 5,"nickname": "Supergirl","picture": "supergirl_picture",},{"id": 6,"nickname": "Flash","picture": "flash_picture",},]
+[
+  {
+    "id": 1,
+    "nickname": "Superman",
+    "picture": "uperman_picture"
+  },
+  {
+    "id": 2,
+    "nickname": "Batman",
+    "picture": "batman_picture"
+  },
+  {
+    "id": 3,
+    "nickname": "Nightwing",
+    "picture": "nightwing_picture"
+  },
+  {
+    "id": 4,
+    "nickname": "Batgirl",
+    "picture": "batgirl_picture"
+  },
+  {
+    "id": 5,
+    "nickname": "Supergirl",
+    "picture": "supergirl_picture"
+  },
+  {
+    "id": 6,
+    "nickname": "Flash",
+    "picture": "flash_picture"
+  }
+]
