@@ -1,0 +1,10 @@
+[
+	{
+		name: 'Superman',
+		picture: 'superman_picture',
+	},
+	{
+		name: 'Batman',
+		picture: 'batman_picture',		
+	}
+]
